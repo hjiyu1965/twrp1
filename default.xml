@@ -5,5 +5,5 @@
            fetch=".."
            review="review.teamw.in" />
 
-<project path="Team-Win-Recovery-Project" name="TeamWin/Team-Win-Recovery-Project" />
+<project path="Team-Win-Recovery-Project" name="TeamWin/Team-Win-Recovery-Project" revision="cm9wip" />
 </manifest>
