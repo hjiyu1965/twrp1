@@ -5,5 +5,9 @@
            fetch=".."
            review="review.teamw.in" />
 
+<default revision="refs/heads/cm9wip"
+           remote="github"
+           sync-j="4" />
+
 <project path="Team-Win-Recovery-Project" name="TeamWin/Team-Win-Recovery-Project" revision="cm9wip" />
 </manifest>
